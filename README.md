@@ -35,6 +35,3 @@ A lightweight browser-based HTML and Rich Text editor with live preview. Write H
 
 https://siddhantxcodes.github.io/editor/
 
-## License
-
-MIT
