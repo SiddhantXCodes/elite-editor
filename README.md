@@ -4,7 +4,7 @@ A lightweight browser-based HTML and Rich Text editor with live preview. Write H
 
 ## Screenshot
 
-![Elite Offline Editor](assets/screenshot.png)
+![Elite Offline Editor](assets/elite-editor.png)
 
 ## Features
 
